@@ -8,4 +8,5 @@ c'est une application ayant un back-end et un front- end permettant de gerer un 
   technologie Utilisées :
     Laravel
     mamans kitchen pour la Partie Frontt comme theme
+    Materialise design pour le Back 
     
